@@ -1,8 +1,8 @@
 Freetronics ProtoShield
 =============================
-Copyright 2010 Freetronics Pty Ltd
-Freetronics site:  <www.freetronics.com>
-Freetronics email: <info@freetronics.com>
+Copyright 2010 Freetronics Pty Ltd 
+Freetronics site:  <www.freetronics.com> 
+Freetronics email: <info@freetronics.com> 
 
 A general-purpose prototyping shield for the Arduino Duemilanove,
 TwentyTen and other compatible boards based on the same header format.
@@ -29,6 +29,6 @@ schematic in PDF format and image(s) of the pcb.
 
 LICENSE
 -------
-Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL). 
 The \license folder within this repository also contains a copy of
 this license in plain text format.
