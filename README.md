@@ -1,8 +1,8 @@
 Freetronics ProtoShield
 =============================
-Copyright 2010 Freetronics Pty Ltd
-Freetronics site:  <www.freetronics.com>
-Freetronics email: <info@freetronics.com>
+Copyright 2010 Freetronics Pty Ltd 
+Freetronics site:  <www.freetronics.com> 
+Freetronics email: <info@freetronics.com> 
 
 A general-purpose prototyping shield for the Arduino Duemilanove,
 TwentyTen, and other compatible boards based on the same header format.
